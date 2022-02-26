@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The apology of Robert Tichborn and John Ireton. Being a serious vindication of themselves and the good old cause, from the imputations cast upon them and it by the triumphing city and nation in this their day of desertion.</title>
+            <author>Tichborne, Robert, Sir, d. 1682.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75508</idno>
+            <idno type="STC">Wing A3557aA</idno>
+            <idno type="STC">Thomason E1017_3</idno>
+            <idno type="STC">ESTC R207912</idno>
+            <idno type="EEBO-CITATION">99866931</idno>
+            <idno type="PROQUEST">99866931</idno>
+            <idno type="VID">168813</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75508)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168813)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1017[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The apology of Robert Tichborn and John Ireton. Being a serious vindication of themselves and the good old cause, from the imputations cast upon them and it by the triumphing city and nation in this their day of desertion.</title>
+                  <author>Tichborne, Robert, Sir, d. 1682.</author>
+                  <author>Ireton, John, Sir, 1615-1690.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for every body but the light-heel'd apprentices and head-strong masters of this wincing city of London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Bound with items in the Thomason Tracts collection dated March 1660.</note>
+                  <note>Annotation on Thomason copy: "March. 12 1659" [i.e. 1660].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168813:1" rendition="simple:additions"/>
+            <p>THE APOLOGY OF Robert Tichborn AND Iohn Ireton.</p>
+            <p>Being a ſerious VINDICATION of themſelves and the GOOD OLD CAUSE, from the Imputations caſt upon them and it by the triumphing City and Nation in this their day of Deſertion.</p>
+            <q>
+               <l>Rebellion never proſper'd: what's the reaſon?</l>
+               <l>'Cauſe if it proſper'd none durſt call it Treaſon.</l>
+            </q>
+            <p>Printed for every body but the light-heel'd Ap<g ref="char:EOLhyphen"/>prentices and head-ſtrong Maſters of this wincing City of LONDON.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168813:2"/>
+            <pb n="3" facs="tcp:168813:2"/>
+            <head>THE APOLOGY OF Robert Tichborn AND Iohn Ireton.</head>
+            <p>IT is not unknown to us under how many ſcandals we groan, and how our Names hang up a ſunning in all parts of the Nation, all bedaubed with infamous imputations, like an old greaſie pair of breeches embroidered with Fullers Earth. We confeſſe that according to the Pro<g ref="char:EOLhyphen"/>verb, <hi>Men that have ill Names are as good as half hang'd.</hi> Truly although we might aver this Proverb to be a lie, not finding the exerciſe of our Lungs at all ſtraightned by the for<g ref="char:EOLhyphen"/>feiture of our Reputation; yet, to give the world a clear diſco<g ref="char:EOLhyphen"/>very of our ſpirits; and to ſhew that we do not repent becauſe of our Reproaches, we have thought good to publiſh theſe few lines by way of our juſtification; only let the Reader take this Caution along with him, that if there be any honour obtain'd by the penning thereof, he is to aſcribe it only to him who is
+<pb n="4" facs="tcp:168813:3"/>
+named firſt in the Title, for that my brother <hi>Ireton,</hi> though he be a good cunning man for the world, yet he never wrote a Book in his life, as I have done, ſo that it is not to be thought, that he who never put pen to paper ſhould be ſo good a Pen-man as I, that have made a ſhift to make a whole Treaiſe. But methinks we now hear the world begin to Catechize us, firſt ask<g ref="char:EOLhyphen"/>ing us, <hi>What are our Names?</hi> why we would have the World to know that we are not aſham'd of our names; our names are <hi>Robert Tichborn</hi> and <hi>John Ireton,</hi> the which names of ours are alſo fring'd about with the titles of Aldermen. You'l ſay, <hi>Who gave us theſe Names?</hi> Why even our Godfathers and God<g ref="char:EOLhyphen"/>mothers forſooth; for then the Swine of the world trampled upon theſe divine Truths which are ſince more freely practiſed: for a man could not have been waſh'd from his ſins in thoſe days in deep Rivers, (as they cleanſe ſheep before ſheering time) but he muſt have been hooted at by all the ſtreet. Neither to tell ye the truth did we much look after ſuch kind of Stories, til we found <hi>Profeſſion,</hi> or profeſſing, which you pleaſe, neceſſary for the exaltation of our particular mortified Intereſts: But if you ask us, who made us Aldermen? we anſwer, not the City; for we were never beholding to them in our lives, (nor did we give them any reaſon to oblige us:) but our gracious Protector of happy memory rais'd us for his own ends and our profit: we ſay, of happy memory, for that he never opproſſed us, never tyrannized over us, and therefore we have no reaſon to ſpeak ill of him.</p>
+            <p>We came ſeveral wayes into preferment. As for my brother <hi>Ireton,</hi> All the world knows where he lived, and in what affairs of this tranſitory world he did occupy himſelf. It was <hi>Henry Ireton</hi> that like <hi>Cantharides,</hi> raiſed up this City <hi>Blister</hi> of Authority. Truly he was his brother, and ye cannot blame him. Would ye not have thought it very ſtrange, and a very unnatural thing in a brother to ſee himſelf Commiſſary General of a great Army, and Deputy-Lievtenant of <hi>Ireland,</hi> and let his own fleſh and blood ſtill continue a ſeller of <hi>Druggett</hi> and <hi>Bombazine.</hi> Neither was he an ungracious, or an unthankful brother; for he was very officious, and obedient to him in all things, as be<g ref="char:EOLhyphen"/>ing the more ſuperiour power. The ſubtle old Fox feſcu'd
+<pb n="5" facs="tcp:168813:3"/>
+to him with all diligence his primar of Policy, which the pretty apt thing learnt with ſo much docibleneſs, that partly by his own induſtry, partly by the aſſiſtance of the Spirit he arrived in a ſhort time to perfection, and enjoyed the fulneſs of his brothers Matchiavillianiſms. Therefore when the Protector went firſt about to ride the great City he made uſe of us, as of two Bitts to rein his High-metal'd Steed. Nor muſt I be ſilent of his brothers charity, for hee lent the compounding Cavaliers, though they were his enemies, mony upon Mortgages and great advantages to himſelf, imitating therein the pious ex<g ref="char:EOLhyphen"/>ample of Mr. <hi>Moorecrafts</hi> kindneſſes to the younger <hi>Lovelace,</hi> as you ſhall finde it written in the Play of the <hi>Scornful Lady,</hi> whereby he got unto himſelf much of the riches of this world.</p>
+            <p>For myſelf, I was alwayes Pragmatical, and withall very Schiſmatical; and being in the cave of <hi>Narrow-fortune,</hi> I made my Mother the City drunk with the Cluſters which I brought from <hi>Canaan,</hi> and ſhe in her drink made me a Colonel; now becauſe I had not ſo much mony then, as I have now, I even contented my ſelf with my Lord of <hi>Pembrokes</hi> old Cloaths, and in them my thought I was as fine as the beſt Colonel of them all. Some that ſaw me march before my Regiment would ſay, What is the old Earle of <hi>Pembroke</hi> riſen again from the dead? No fooliſh <hi>Galathians,</hi> it was not he, for the dead live not, ſo that it was not my Lord of <hi>Pembroke</hi> that lived in my Cloaths, but I that lived in my Lord of <hi>Pembroks</hi> old Cloaths: Why if the Earle of <hi>Pembroke</hi> had carried his old Cloaths to his grave, I could not have had them, neither ſhould I have deſired them; but ſince that he had no need of taking them along with him (as indeed there is no need of cloaths where Whoremaſters and Swearers remain, becauſe the place is heated with perpetual fires even like a Glaſs-houſe) ſhould my Lord of <hi>Pembrokes</hi> old Cloaths have been thrown away? Nay verily, but they are in an errour that ſay ſo: And I ſhall ſay this to the face of the whole world, that for my part I think my Lord of <hi>Pembroke</hi> was more beholding to that ſervant that ſold me his Cloaths, than to any man in the world, for that he raiſed unto his Lord a living Monument. But it was not my Lord of <hi>Pembrokes</hi>
+               <pb n="6" facs="tcp:168813:4"/>
+Cloaths that made me famous, it was a certain deliberate, grave, ſerious, pithy, godly, and moſt obſtreperous piece of (I will not ſay) ſence, becauſe I was the Author, but let them be Judges that have patience to read it. Truly it will require ſome pa<g ref="char:EOLhyphen"/>tience in a man to read it all over. So that if patience be a vertue, he that reads it quite through muſt needs be vertuous. I entituled it a Cluſter <hi>Canaans</hi> Grapes, meaning the Grapes which the <hi>Spyes</hi> brought out of <hi>Canaan.</hi> Truly I think it is omi<g ref="char:EOLhyphen"/>nous to bring Grapes from <hi>Canaan;</hi> for from the time I brought home my Cluſters, have I been counted a Spy too, not without reaſon; for to tel the truth, I have been a Spy upon the City ever ſince. This book made me appear to the world ſuch a ſimple fellow, as if butter it ſelf would not melt in my mouth. But <hi>Cromwel</hi> my very good Lord and Maſter, a man of a moſt piercing apprehenſion, finding that my mouth was not only able to melt the butter, but that my throat alſo was wide enough to ſwallow the Gudgeons, and perceiving me to have an <hi>Oſtrich</hi> conſcience, he took me into his arms, and ſaid, Friend <hi>Tichborn,</hi> I find thee as fit for my Turn as if I had made thee my ſelf, and therfore do but help me to carry on this great work of mine, and I will reward thee, not, that like a Saint thou ſhalt truſt me till the world to come, but I will reward thee in this world, yea even in this world wherein thou now liveſt. Doſt thou want Ho<g ref="char:EOLhyphen"/>nour? I will make thee Lord Mayor of <hi>London;</hi> doſt thou want money? thou ſhalt be my <hi>Danae,</hi> and I will ſhowr gold into thy Lap. Say you ſo, thought I, money will make a Mayor to goe. Truly it made me to goe about many Deſigns which few men but he thank'd me for: and I will ſay thus much for my ſelf, and a fig for my ſelf, that if faithfulneſs and reality be vertuous, I was vertuous, for I was alwayes faithful and real to him I ſerv'd. Truly 'tis a hard matter for a man to act his part well upon the Stage of this world. We thought we had done our parts as well as others, but the altering of one Scene, how it has chang'd our condition! And now what do not men ſay of us? They ſay that we have carried on all the barbarous Deſignes of the <hi>Anabaptiſts</hi> in the City, that we betrayd the Councels, and were two Spies upon all the actions of our Fel<g ref="char:EOLhyphen"/>low
+<pb n="7" facs="tcp:168813:4"/>
+Gown-men within the walls. Truly a great piece of bu<g ref="char:EOLhyphen"/>ſineſs, and we live in a fine Age indeed, when men ſhall be blam'd for being diligent in their Calling. I remember, that when I was a young man, my Maſter would ſay, Keep cloſe to your Trade, and your Trade will maintain you. Now we believe that that way whereby a man gets his livelyhood, he is bound to follow, and it is his Trade and Occupation. Tru<g ref="char:EOLhyphen"/>ly we had a very good Trade, ſo that when all the City com<g ref="char:EOLhyphen"/>plain'd for want of Trading, we felt no ſuch oppreſſion. The Spaniſh Wars did us no harm, and I think we ſhould have been fools indeed to have ſhut up our ſhops at ſuch a time. Nor are we to be blam'd for ſerving our Pay-maſter ſo faithfully; for what is there in the world ſo baſe as Treachery, eſpecially treachery to a mans friend. 'Tis true we grant, that a man may betray his Countrey, or a whole City, or the moſt inge<g ref="char:EOLhyphen"/>nious and faithful Party of a Nation. For there is a multi<g ref="char:EOLhyphen"/>tude, and a man hath no obligation to one in ten thouſand; but to betray a mans friend, and the beſt friend he hath in the world, that's your treachery. <hi>Judas</hi> was not curs'd for be<g ref="char:EOLhyphen"/>traying his Country, but for betraying his ſingle Maſter, who had ſo many wayes oblig'd him, and at length made him his Treaſurer, never calling him to any account. Then people ſay, <hi>We endeavour'd all we could to break the City Charter,</hi> though we were members thereof, and extreamly angry they were be<g ref="char:EOLhyphen"/>cauſe my Brother <hi>Ireton</hi> would have been twice Mayor. Law ye now! what a coyle here is. Truly 'tis a ſtrange thing to us that people ſhould keep ſuch a ſtir with a <hi>Charter.</hi> Why, ſup<g ref="char:EOLhyphen"/>poſe ye had never a Charter, think ye the City would periſh? I wonder what Charter that City had which <hi>Cain</hi> built in the Land of <hi>Nod.</hi> And yet, for ought I know, one man might have been Mayor there forty times, and no body have ſaid a<g ref="char:EOLhyphen"/>ny thing to him. In former time <hi>Mayors</hi> were <hi>Mayors</hi> as long as they liv'd, and were call'd Kings, witneſs <hi>Bera</hi> Mayor of <hi>Sodom,</hi> and <hi>Birſhu</hi> Mayor of <hi>Gomorrah,</hi> and <hi>Chedorlaomer</hi> Mayor of <hi>Elam:</hi> Truly if I or my Brother <hi>Ireton</hi> were ſuch a Mayor of <hi>London,</hi> as he was of <hi>Elam,</hi> we ſhould be as good Mayors as he for all his hard name. Others blame us for unhorſing the Cavaliers; but they talk like fools, for we have made them
+<pb n="8" facs="tcp:168813:5"/>
+beggars, and it is conttary to the Proverb, to ſet beggars a horſe-back. Give them Horſes and they'l ride upon our ſhoul<g ref="char:EOLhyphen"/>ders. A great many people ſay we have no <hi>Charity.</hi> Truly we find it to be a very cold vertue, therefore we dare not let it come too neer our hearts by reaſon of its benumming and ve<g ref="char:EOLhyphen"/>nomous quality. As many there be that ſay we have as little <hi>Honeſty.</hi> But as for that, we ſhall onely give this ſhort anſwer, that if we have cozen'd the State, we have done no more than a great many of our Companions, and what we can juſtifie from the continual practice of the Saints. And truly there is a great deal of reaſon that my Brother <hi>Ireton</hi> ſhould have an <hi>Iſh<g ref="char:EOLhyphen"/>maels</hi> portion, being the ſon of the Bom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>woman.</p>
+            <p>Thus, I hope, we have fully ſatisfy'd the world, if the world be not as unreaſonable as our ſelves; for I confeſſe I think 'twas not a ſmall matter that ſatisfy'd us. 'Tis true, perhaps we may be a little puzled what to ſay at the laſt day; but be of good comfort Brother <hi>Ireton,</hi> for if it be impoſſible for Saints to err, then it will go well enough of our ſide. Now I am as con<g ref="char:EOLhyphen"/>fident as I ſtand here we are two Saints; for I have prov'd it in my moſt Odoriferous Treatiſe of Muskadine, which gives you ſuch eſſential marks of a Saint, that it may indeed be call'd the Saints Butter-print: You may there ſee a Saint cut as ex<g ref="char:EOLhyphen"/>actly as a French gown. Now does any body think that my ſoul could breath forth ſuch experiences and holy truths, and I be a Knave<g ref="char:punc">▪</g> Now if there were nothing elſe, this were enough to ſatisfie any reaſonable man. And therefore I ſhall ſay no more till I ſhall come to Preach to the multitude upon a Lad<g ref="char:EOLhyphen"/>der, and then you ſhall hear as much agen, if it be but onely to delay time.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
